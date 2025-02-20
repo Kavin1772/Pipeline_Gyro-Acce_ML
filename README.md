@@ -1,2 +1,2 @@
-# ML_Assgn1
+# Pipeline_Gyro-Acce
 Pipeline for accelerometer and gyroscope signals.
